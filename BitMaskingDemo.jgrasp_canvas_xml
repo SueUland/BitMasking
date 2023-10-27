@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canvas xmlns="http://www.jgrasp.org">
+  <Language>Java</Language>
+  <ShowTypes>false</ShowTypes>
+  <Version>2</Version>
+  <Grid>
+    <Snap>true</Snap>
+    <Show>false</Show>
+  </Grid>
+  <Scope id="0">
+    <Name>main</Name>
+    <Signature>([Ljava/lang/String;)V</Signature>
+    <DeclaringType>BitMaskingDemo</DeclaringType>
+    <Depth>0</Depth>
+  </Scope>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>2</X>
+      <Y>180</Y>
+      <W>762</W>
+      <H>131</H>
+    </Bounds>
+    <LabelLoc>
+      <WO>false</WO>
+    </LabelLoc>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local long` l</Expression>
+      <ViewerClass>jgrasp_viewers.long_LongView</ViewerClass>
+    </Viewer>
+  </Frame>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>160</X>
+      <Y>80</Y>
+      <W>517</W>
+      <H>131</H>
+    </Bounds>
+    <LabelLoc>
+      <WO>false</WO>
+    </LabelLoc>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local int` i</Expression>
+      <ViewerClass>jgrasp_viewers.int_IntView</ViewerClass>
+    </Viewer>
+  </Frame>
+  <Size>
+    <W>768</W>
+    <H>534</H>
+  </Size>
+  <ESize>
+    <W>768</W>
+    <H>534</H>
+  </ESize>
+</Canvas>
